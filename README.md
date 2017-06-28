@@ -26,7 +26,6 @@ result
 OK
 ```
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">これはてすとです<a href="https://twitter.com/hashtag/%E3%81%93%E3%82%8C?src=hash">#これ</a> <a href="https://twitter.com/hashtag/%E3%81%A6%E3%81%99%E3%81%A8?src=hash">#てすと</a></p>&mdash; みやかわのラズパイ (@momijinn_raspi) <a href="https://twitter.com/momijinn_raspi/status/879990918656344072">2017年6月28日</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br><br>
 お店の名前や商品の名前の場合、誤って違うところで切り出されてしまいます
